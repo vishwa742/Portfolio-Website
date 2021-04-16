@@ -34,7 +34,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: 'https://ticket-booking-app1.netlify.app/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/vishwa742/React-ticketing-app', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -43,7 +43,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: 'https://ticket-booking-app1.netlify.app/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/vishwa742/Airplane-Boarding-Visualizer', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
