@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'project.png',
     img2: 'react1.png',
     title: 'Ticket Booking Application',
-    info: '',
+    info: 'Built a React application to book movie tickets for movies currently playing in theatres. ',
     info2: '',
     url: 'https://ticket-booking-app1.netlify.app/',
     repo: 'https://github.com/vishwa742/React-ticketing-app', // if no repo, the button will not show up
@@ -40,9 +40,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.png',
     title: 'Airplane Boarding Visualizer',
-    info: '',
+    info: 'A Visualization Project built on React.js to compare the most effective and the least effective airplane boarding techniques.',
     info2: '',
-    url: 'https://ticket-booking-app1.netlify.app/',
+    url: 'https://airplane-vis.netlify.app/',
     repo: 'https://github.com/vishwa742/Airplane-Boarding-Visualizer', // if no repo, the button will not show up
   },
   {

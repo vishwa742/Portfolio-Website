@@ -88,7 +88,7 @@ const Projects = () => {
                         
                         <p>
                           {info ||
-                            'Built a React application to book movie tickets for movies currently playing in theatres. Built a React application to book movie tickets for movies currently playing in theatres.'}
+                            ''}
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
