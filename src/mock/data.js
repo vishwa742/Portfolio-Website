@@ -10,48 +10,49 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Vishwanath Ezhil',
+  subtitle: "I'm a Web Developer",
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'prop.png',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://www.google.com/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project.png',
+    img2: 'react1.png',
+    title: 'Ticket Booking Application',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://ticket-booking-app1.netlify.app/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project1.png',
+    title: 'Airplane Boarding Visualizer',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://ticket-booking-app1.netlify.app/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'project2.png',
+    title: 'Restaurant Finder',
+    info: 'Designed a website using Flask to find restaurants across the United States based on address or a city name.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://restaurant-finder-vish.herokuapp.com/',
+    repo: 'https://github.com/vishwa742/RestaurantFinder', // if no repo, the button will not show up
   },
 ];
 
@@ -59,31 +60,22 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'gmail',
 };
 
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+    
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/e-vishwanath/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/vishwa742',
     },
   ],
 };

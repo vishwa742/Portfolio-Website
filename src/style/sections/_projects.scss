@@ -1,6 +1,6 @@
 #projects {
-  background-color: $white-color;
-  color: $dark-blue-text;
+  background-color: black;
+  color: white;
   margin-top: -15rem;
   padding-top: 15rem;
 
@@ -50,7 +50,7 @@
     }
 
     &__image {
-      width: 90%;
+      width: 85%;
       margin: 0 auto;
 
       @include respond(tab-land) {
