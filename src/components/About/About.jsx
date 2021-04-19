@@ -54,7 +54,7 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      href='https://docdro.id/9qKVoyp'
+                      href='https://www.scribd.com/document/503199178/Resume-Vishwanath-Ezhil'
                     >
                       Resume
                     </a>
