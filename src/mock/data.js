@@ -60,7 +60,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: 'gmail',
+  email: 'ezhilvishwanath@gmail.com',
 };
 
 // FOOTER DATA
